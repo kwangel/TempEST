@@ -227,7 +227,7 @@ If you use TempEST in your research, please cite:
   title={{TempEST: Temporal Exploration for Stress Testing}},
   author={Katie Wang and Rory Lipkis and Anastasia Mavridou},
   year={2026},
-  url={https://github.com/kwangel/tempest}
+  url={https://github.com/kwangel/TempEST}
 }
 ```
 
